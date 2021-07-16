@@ -1,5 +1,4 @@
 Count and sorting words from a text file in C
-<br>
 ## Getting Started
  Copy the **text** you want to *count and sort* into the text.txt file
  or
