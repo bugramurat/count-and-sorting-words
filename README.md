@@ -7,8 +7,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -31,8 +29,6 @@
     <a href="https://github.com/bugramurat/count-and-sorting-words/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -60,9 +56,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -71,30 +66,27 @@ Count and sorting words from a text file in C
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [C](https://www.w3schools.com/c/index.php)
+-   [C](https://www.w3schools.com/c/index.php)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 Make sure to you have a C compiler IDE.
 
 ### Prerequisites
 
-Copy the **text** you want to *count and sort* into the ```text.txt``` file <br>
+Copy the **text** you want to _count and sort_ into the `text.txt` file <br>
 or <br>
-Copy the **file** you want to *count and sort* into the folder to run.
+Copy the **file** you want to _count and sort_ into the folder to run.
 
 ### Installation
 
-1. Change the file name in code if you replaced the ```text.txt``` file with a file with a different name
+1. Change the file name in code if you replaced the `text.txt` file with a file with a different name
 
 ```java
 124   FILE * file = fopen("text.txt", "r");
@@ -104,27 +96,24 @@ Copy the **file** you want to *count and sort* into the folder to run.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Just open the compiler and build and run it.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 See the [open issues](https://github.com/bugramurat/count-and-sorting-words/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -140,18 +129,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Bugra Murat - bugramurat.q@gmail.com
@@ -160,19 +147,17 @@ Project Link: [https://github.com/bugramurat/count-and-sorting-words](https://gi
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [File functions in C](https://www.bilgigunlugum.net/prog/cprog/c_stdkut/stdio/fseek)
+-   [File functions in C](https://www.bilgigunlugum.net/prog/cprog/c_stdkut/stdio/fseek)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/bugramurat/count-and-sorting-words.svg?style=for-the-badge
 [contributors-url]: https://github.com/bugramurat/count-and-sorting-words/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/bugramurat/count-and-sorting-words.svg?style=for-the-badge
