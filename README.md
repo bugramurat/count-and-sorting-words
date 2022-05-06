@@ -86,13 +86,16 @@ Copy the **file** you want to _count and sort_ into the folder to run.
 
 ### Installation
 
-1. Change the file name in code if you replaced the `text.txt` file with a file with a different name
+1. Download zip or clone the repo
+   ```sh
+   git clone https://github.com/bugramurat/count-and-sorting-words.git
+   ```
+2. Change the file name in code if you replaced the `text.txt` file with a file with a different name
+   ```java
+   124   FILE * file = fopen("text.txt", "r");
 
-```java
-124   FILE * file = fopen("text.txt", "r");
-
-126   FILE * copyFile = fopen("text.txt", "r");
-```
+   126   FILE * copyFile = fopen("text.txt", "r");
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
