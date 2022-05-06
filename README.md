@@ -76,7 +76,7 @@ Count and sorting words from a text file in C
 
 ## Getting Started
 
-Make sure to you have a C compiler IDE.
+Make sure to you have a C compiler IDE. _(I'm using Code::Blocks)_
 
 ### Prerequisites
 
