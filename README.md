@@ -60,7 +60,7 @@
 
 ## About The Project
 
-[![Screen Shot][product-screenshot]]()
+![Screen Shot][product-screenshot]
 
 Count and sorting words from a text file in C
 
