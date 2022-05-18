@@ -144,7 +144,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Contact
 
-Bugra Murat - bugramurat.q@gmail.com
+Bugra Murat - bugramurat4444@gmail.com
 
 Project Link: [https://github.com/bugramurat/count-and-sorting-words](https://github.com/bugramurat/count-and-sorting-words)
 
